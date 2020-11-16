@@ -9,8 +9,7 @@ import {}  from 'angular-bootstrap-md'
 })
 export class HomePageComponent implements OnInit {
 
-  constructor() {
-  }
+  constructor() {}
 
   ngOnInit(): void {
   }
