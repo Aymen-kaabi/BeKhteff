@@ -1,0 +1,59 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.background{
+    background-image: url('../../assets/bg-registration-form-2.jpg');
+    position: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #ffffff42;
+  background-clip: border-box;
+  border: 1px solid #f0bcbc;
+  border-radius: 0.35rem;
+  width: 400px;
+  margin-left:610px;
+  margin-right: 0%;
+    }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 50px;
+    justify-content: center;
+
+}
+.backgroundCard{
+    background-image: url('../../assets/cyberbackgoundRegister2.jpg');
+    position: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow:0 2px 5px 0 #a5a3a0, 0 4px 12px 0 #a8a7a6; 
+}
+
+.btn{
+    background-color:#42423c ;
+}
+.chooseCard{
+    position: absolute;
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+}

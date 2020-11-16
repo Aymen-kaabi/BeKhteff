@@ -1,0 +1,50 @@
+
+
+.form-elegant .font-small {
+    font-size: 0.8rem; }
+    
+    .form-elegant .z-depth-1a {
+    -webkit-box-shadow: 0 2px 5px 0 #f2dcbb, 0 4px 12px 0 #f2dcbb ;
+    box-shadow: 0 2px 5px 0 #f2dcbb, 0 4px 12px 0 #f2dcbb; }
+    
+    .form-elegant .z-depth-1-half,
+    .form-elegant .btn:hover {
+    -webkit-box-shadow: 0 5px 11px 0 rgba(188, 196, 202, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 120px;
+   // justify-content: center;
+
+}
+.background{
+    background-image: url('../../assets/cyberBackgroundLogin.jpg');
+    position: absolute;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #ffffff42;
+    background-clip: border-box;
+    border: 1px solid #f0bcbc;
+    border-radius: 0.35rem;
+    width: 400px;
+    margin-left:230px;
+}
+.btn{
+    background-color:#aaaaaa ;
+}
